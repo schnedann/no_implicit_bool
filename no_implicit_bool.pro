@@ -9,3 +9,6 @@ SOURCES += \
 
 HEADERS += \
   no_implicit_bool.h
+
+DISTFILES += \
+  README.md
